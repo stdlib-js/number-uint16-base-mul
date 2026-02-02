@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-uint16-base-mul",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Multiply two unsigned 16-bit integers.",
   "license": "Apache-2.0",
   "author": {
