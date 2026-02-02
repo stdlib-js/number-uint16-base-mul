@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@stdlib/math-base-napi-binary": "^0.3.2",
-    "@stdlib/number-int32-base-mul": "github:stdlib-js/number-int32-base-mul#main",
+    "@stdlib/number-int32-base-mul": "^0.0.1",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
